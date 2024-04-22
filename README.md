@@ -11,8 +11,7 @@ Quizzer is an intuitive quizzing platform perfect for anyone looking to challeng
 ## Features
 
 ### Welcome Screen
-
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-21 at 23 45 18](https://github.com/madiyarzm/Quizz-App/assets/148677506/07978ef5-2592-4d0d-9004-46cf3aca9b61)
+<img src="https://github.com/madiyarzm/Quizz-App/assets/148677506/07978ef5-2592-4d0d-9004-46cf3aca9b61" width="200" alt="Simulator Screenshot - iPhone 15 Pro Max - 2024-04-21 at 23 45 18">
 
 - **User-Friendly Interface**: A clear and inviting welcome screen that greets users with the message "Welcome to the Quizzer".
 - **Start Button**: An easily accessible 'Start Quizz' button takes users straight into the action.
