@@ -19,7 +19,7 @@ Quizzer is an intuitive quizzing platform perfect for anyone looking to challeng
 
 ### Quiz Interface
 
-<img width="364" alt="Снимок экрана 2024-04-21 в 11 47 05 PM" src="https://github.com/madiyarzm/Quizz-App/assets/148677506/ad85d4d2-f09c-4a39-89b8-e15380a58c19">
+<img width="200" alt="Снимок экрана 2024-04-21 в 11 47 05 PM" src="https://github.com/madiyarzm/Quizz-App/assets/148677506/ad85d4d2-f09c-4a39-89b8-e15380a58c19">
 
 - **Question Progress**: Users can see how many questions they've answered correctly out of the total number of questions.
 - **Questions and Answers**: The app presents multiple-choice questions with the option to choose an answer.
