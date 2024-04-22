@@ -1,8 +1,6 @@
-# quizz_app
-
 # Quizzer App
 
-Welcome to the Quizzer App repository! This interactive mobile application provides users with a fun and engaging way to test their knowledge across various topics.
+Welcome to the Quizzer App repository! This interactive mobile application provides users with a fun and engaging way to test their knowledge across various topics. Still developing...
 
 ## About
 
@@ -18,7 +16,7 @@ Quizzer is an intuitive quizzing platform perfect for anyone looking to challeng
 
 ### Quiz Interface
 
-<img src="https://github.com/madiyarzm/Quizz-App/assets/148677506/ad85d4d2-f09c-4a39-89b8-e15380a58c19" width="100" alt="Quizzer App Screenshot">
+<img src="https://github.com/madiyarzm/Quizz-App/assets/148677506/ad85d4d2-f09c-4a39-89b8-e15380a58c19" width="200" alt="Quizzer App Screenshot">
 
 
 - **Question Progress**: Users can see how many questions they've answered correctly out of the total number of questions.
